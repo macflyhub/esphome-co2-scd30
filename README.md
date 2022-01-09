@@ -25,3 +25,5 @@ As per the PIN instructions above the SEL on the SCD30 is grounded to enable I2C
   
 It takes 5 days for Auto calibration or you can manually tweak the settings.  
 My unit was about 200 units above true reading to start with.  
+
+Update: Added "automatic_self_calibration: true" as the documentation said "true" was the default but it turned out not to work.
